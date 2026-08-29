@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=m7mdelkholy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7mdelkholy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTal7a&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
