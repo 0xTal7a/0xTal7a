@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m7mdelkholy&label=Profile%20views&color=0e75b6&style=flat" alt="m7mdelkholy" />
+  <img src="https://komarev.com/ghpvc/?username=0xTal7a&label=Profile%20views&color=0e75b6&style=flat" alt="0xTal7a" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - ⚡ I’m currently diving deep into **C++, Python, JavaScript**, and **AI**.
 - 🛡️ Sharpening my cybersecurity skills focusing on **OSINT, Network Security, and Bug Bounties**.
 - 🍎 I'm currently using **MacBook** using **Linux (Lima)** and terminal tools.
-- 🕸️ I'm learning web bugbounty.
+- 🕸️ I'm learning web bug bounty.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -32,7 +32,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=m7mdelkholy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=0xTal7a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xTal7a&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
@@ -40,5 +40,5 @@
 ### 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m7mdelkholy/m7mdelkholy/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/0xTal7a/0xTal7a/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
